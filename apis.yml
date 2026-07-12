@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://www.thegazette.co.uk/data
 common:
+  - type: DomainSecurity
+    url: security/gazette-data-uk-domain-security.yml
   - type: Website
     url: https://www.thegazette.co.uk/data
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.thegazette.co.uk/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
