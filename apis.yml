@@ -39,7 +39,6 @@ apis:
   - name: Gazette Data, UK
     description: "UK official public record API"
     humanURL: https://www.thegazette.co.uk/data
-    baseURL: https://www.thegazette.co.uk/data
     tags:
       - Government
     properties:
